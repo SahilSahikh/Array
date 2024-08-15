@@ -35,7 +35,6 @@ Array after removing duplicates: 1 2 3 4
   For larger arrays, consider using a more efficient approach with hash tables or sorting the array first.
 - **Edge Cases**: Handle cases where the input array might be empty or where all elements are duplicates.
 
-This updated documentation includes the new function name and provides a clear overview of how the program works.
 
 
 
