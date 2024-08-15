@@ -1,3 +1,4 @@
+/*
 #### Description:
   This C program removes duplicate elements from an array. 
   It reads the size and elements of the array from the user, 
@@ -34,7 +35,7 @@ Array after removing duplicates: 1 2 3 4
 - **Efficiency**: The current approach has a time complexity of O(n^2) due to the nested loop for checking duplicates.
   For larger arrays, consider using a more efficient approach with hash tables or sorting the array first.
 - **Edge Cases**: Handle cases where the input array might be empty or where all elements are duplicates.
-
+*/
 
 
 
